@@ -1,0 +1,19 @@
+// -- arquivos mexidos no lado do projeto laravel:
+
+app/Providers/AppServiceProvider.php 
+app/Models/Student.php
+database/migration/2023_07_20_233917_create_students_table.php
+app\Http\Controllers\API/StudentController.php
+routes\api.php
+.env
+
+
+// -- arquivos mexidos no lado do projeto react:
+
+00 - anotações.txt
+public/index.html
+src/app.js
+src/pages/addStudent.js
+src/pages/student.js
+
+

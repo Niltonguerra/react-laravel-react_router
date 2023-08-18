@@ -1,0 +1,14 @@
+//baixar o react:
+npx create-react-app "nome do projeto"
+
+//iniciar um projeto react
+npm start
+
+//baixar um pacote de manipulação de route(rotas(link's)) do react:
+npm install react-router-dom
+
+//baixa o axios, usado para comunicação entre react e laravel:
+npm install axios
+
+//baixa o sweetalert, usado para mostrar uma mensagem para o usuario que ele foi cadastrado.
+npm install sweetalert --save
